@@ -1,0 +1,7 @@
+.imgBackground {
+  background-image: url('./../../assets/dd.jpg');
+  background-repeat: no-repeat;
+  background-size:100% auto;
+  height: 480px;
+}
+
